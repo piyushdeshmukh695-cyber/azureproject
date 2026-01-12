@@ -1,0 +1,9 @@
+{
+	"name": "test-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d3a86037-a78a-4256-94d4-6d1b39edd7d8",
+		"tenantId": "071439d8-1353-49d7-a54b-84a096fb06e1"
+	}
+}
